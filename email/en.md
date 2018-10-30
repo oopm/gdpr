@@ -1,6 +1,6 @@
 Hi,
 
-My personal data, like my email address, are protected under GDPR law since may 2016.
+My personal data, like my email address, are protected under GDPR law since May 2018.
 	http://www.privacy-regulation.eu/en/
 
 As Article 3 says, the whole GDPR law applies to you because I am an EU citizen, even if your company is based outside of the EU.
