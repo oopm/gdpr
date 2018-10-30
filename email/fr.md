@@ -1,6 +1,6 @@
 Bonjour,
 
-Mes données personnelles, comme mon adresse e-mail, sont protégées par le RGPD depuis mai 2016 :
+Mes données personnelles, comme mon adresse e-mail, sont protégées par le RGPD depuis mai 2018 :
         http://www.privacy-regulation.eu/fr/
 
 Comme stipulé à l’article 3, le RGPD s'applique ici car je suis citoyen de l’Union Européenne, y compris si votre société est hors Union Européenne.
